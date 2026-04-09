@@ -1,0 +1,13 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
