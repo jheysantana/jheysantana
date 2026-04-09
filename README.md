@@ -22,9 +22,7 @@
 <a href="https://discord.gg/jheysantana"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/jheysantana_"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/jeremias santana santos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jeremiasantana12@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-jeremiasantana12@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:jeremiasantana12@hotmail.com"><img src="https://img.shields.io/badge/Email-jeremiasantana12@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
