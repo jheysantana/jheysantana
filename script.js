@@ -47,7 +47,10 @@ function animateCounter(node) {
   if (visibleMap.get(node)) return;
   visibleMap.set(node, true);
 
-  const target = Number(node.dataset.target);
+  const rawTarget = node.dataset.target;
+  if (rawTarget == null) return;
+
+  const target = Number(rawTarget);
   if (!Number.isFinite(target)) return;
 
   let current = 0;
