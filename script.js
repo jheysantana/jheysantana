@@ -47,8 +47,8 @@ function animateCounter(node) {
   if (visibleMap.get(node)) return;
   visibleMap.set(node, true);
 
-  const target = Number(node.dataset.target || "0");
-  if (Number.isNaN(target)) return;
+  const target = Number(node.dataset.target);
+  if (!Number.isFinite(target)) return;
 
   let current = 0;
   const step = Math.max(1, Math.ceil(target / 30));
