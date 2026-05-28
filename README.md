@@ -29,9 +29,12 @@
 
 # 🚀 Projetos em Destaque:
 🔐 **GOIABINHA** – Ferramenta própria de pentest  
-📊 **Sistema de Metas** – Dashboard profissional para empresas  
-🤖 **Sentient.AI** – IA com emoções e aprendizado contínuo  
-🎮 **Arena Estratégica Neural** – Jogo com IA adaptativa  
+📊 **dashboar_metas** – Dashboard profissional de metas para empresas (Python)  
+🤖 **jerry** – Assistente virtual com IA (em evolução)  
+🏥 **Clinica_atendimento** – Sistema de agendamento de consultas para clínicas pequenas (TypeScript)  
+🧠 **controle_humano** – Controle e gestão com Python  
+📡 **telegram-bot** – Bot para automação no Telegram  
+🔬 **medidor-_de-po-o** – Análise de dados com Jupyter Notebook  
 
 ---
 
